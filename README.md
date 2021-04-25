@@ -1,2 +1,2 @@
-# prolog-test
-Prolog test code
+# Prolog test project
+Test project for prolog programming language
